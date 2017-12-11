@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="US| AMC HD_" tvg-logo="https://www.cabletv.com/images/ctv_responsive/channels/amc.png" group-title="US | Entertainment",AMC HD_
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="US| AMC HD_" tvg-logo="https://www.cabletv.com/images/ctv_responsive/channels/amc.png" group-title="US | Entertainment",AMC
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/1045.ts
-#EXTINF:-1 tvg-id="" tvg-name="BRAVO PACIFIC HD_" tvg-logo="" group-title="US | Entertainment",BRAVO PACIFIC
+#EXTINF:-1 tvg-id="" tvg-name="BRAVO PACIFIC HD_" tvg-logo="" group-title="US | Entertainment",BRAVO 
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/35846.ts
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="DESTINATION AMERICA" tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2017/01/Destination-America.jpg?cdbb91" group-title="US | Entertainment",DESTINATION AMERICA
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/15918.ts
