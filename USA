@@ -2,11 +2,21 @@
 <streaminginfo>
 	    <cname>number 01</cname>
 	    <item>
-	    <title>USA LOCAL NEWS STREAMS</title>
+	    <title>LOCAL NEWS STREAMS</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://www.hdtvexpert.com/wp-content/uploads/2010/12/Mixed-Logos-MR.jpg</thumbnail>
    <externallink>http://www.radiosargentina.com.ar/TVUS.m3u</externallink>
+	   </item>
+</streaminginfo>
+<streaminginfo>
+	    <cname>number 01</cname>
+	    <item>
+	    <title>LOCAL Channels</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://www.hdtvexpert.com/wp-content/uploads/2010/12/Mixed-Logos-MR.jpg</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/localchannels</externallink>
 	   </item>
 </streaminginfo>
 <streaminginfo>
