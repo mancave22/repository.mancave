@@ -1,85 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://www.satellitetv-deal.com/images/logos/A%26E-logo.png" group-title="US Entertainment",  A&E
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1597.ts
-#EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="http://twocentstv.com/wp-content/uploads/2014/05/ABC.jpg" group-title="US Entertainment",  ABC
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1596.ts
-#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="http://is2.mzstatic.com/image/thumb/Purple69/v4/9a/fb/47/9afb4705-bcba-7eac-f9bb-f46fa9e377d3/source/512x512bb.jpg" group-title="US Entertainment",  ABC News
-http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143434.ts
-#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="US/CA| SEC NETWORK HD_" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Southeastern_Conference_logo.svg/1200px-Southeastern_Conference_logo.svg.png" group-title="US/CA | Sports",US/CA| SEC NETWORK HD_
-http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/654.ts
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://county10.typeshift.co/wp-content/uploads/sites/5/2015/02/Animal_Planet_2006.png" group-title="US Entertainment",  Animal Planet
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1582.ts
-#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="" group-title="US Entertainment",  BET
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1578.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bravo" tvg-logo="" group-title="US Entertainment",  Bravo
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1571.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| CBS New York WCBS HD_" tvg-logo="" group-title="US| Local Channels (abc, cbs. nbc, fox)",CBS East
-http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/15642.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| CBS San Fransisco KPIX HD_" tvg-logo="" group-title="US| Local Channels (abc, cbs. nbc, fox)",CBS West
-http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/15622.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBSN" tvg-logo="" group-title="US Entertainment",  CBSN
-http://tvstreams.xyz:83/live/Jr8nixjzWa/tftIq7z244/1568.ts
-#EXTINF:-1 tvg-id="" tvg-name="CMT" tvg-logo="" group-title="US Entertainment",  CMT
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1566.ts
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US| CNBC HD_" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png" group-title="US/CA News",CNBC
-http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/919.ts
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="US Entertainment",  CNN
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1564.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="US Entertainment",  Comedy Central
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1557.ts
-#EXTINF:-1 tvg-id="" tvg-name="CW" tvg-logo="" group-title="US Entertainment",  CW
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1563.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="US Entertainment",  Discovery Channel
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1549.ts
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="US Entertainment",  E!
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1543.ts
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="" group-title="US Entertainment",  Food Network
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1521.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="US Entertainment",FOX
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1536.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="US Entertainment",  FX
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1525.ts
-#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="US Entertainment",  History Channel
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1497.ts
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="US Entertainment",  H2
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1508.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hallmark" tvg-logo="" group-title="US Entertainment",  Hallmark
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1499.ts
-#EXTINF:-1 tvg-id="" tvg-name="ION" tvg-logo="" group-title="US Entertainment",  ION
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1494.ts
-#EXTINF:-1 tvg-id="" tvg-name="ION Life" tvg-logo="" group-title="US Entertainment",  ION Life
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1493.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="US Entertainment",  Lifetime
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1488.ts
-#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="" group-title="US Entertainment",  MSNBC
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1484.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="US Entertainment",  MTV
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47671.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="" group-title="US Entertainment",  Nat Geo
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1468.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| NBC Pittsburgh (WPXI?) HD_" tvg-logo="" group-title="US| Local Channels (abc, cbs. nbc, fox)",NBC Pittsburgh
-http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/15535.ts
-#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="" group-title="US Entertainment",  OWN
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1463.ts
-#EXTINF:-1 tvg-id="" tvg-name="PBS" tvg-logo="" group-title="US Entertainment",  PBS
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1455.ts
-#EXTINF:-1 tvg-id="" tvg-name="Spike" tvg-logo="" group-title="US Entertainment",  Spike
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1445.ts
-#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="US Entertainment",  SyFy
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1436.ts
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="US Entertainment",  TBS
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1434.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="US Entertainment",  TLC
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1432.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="US Entertainment",  TNT
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1431.ts
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="US Entertainment",  Travel Channel
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1423.ts
-#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="" group-title="US Entertainment",  TruTV
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1422.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Land" tvg-logo="" group-title="US Entertainment",  TV Land
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1429.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Network" tvg-logo="" group-title="US Entertainment",   Network
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1420.ts
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="US Entertainment",  VH1
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1419.ts
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="US| AMC HD_" tvg-logo="https://www.cabletv.com/images/ctv_responsive/channels/amc.png" group-title="US | Entertainment",AMC HD_
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/1045.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRAVO PACIFIC HD_" tvg-logo="" group-title="US | Entertainment",BRAVO PACIFIC
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/35846.ts
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="DESTINATION AMERICA" tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2017/01/Destination-America.jpg?cdbb91" group-title="US | Entertainment",DESTINATION AMERICA
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/15918.ts
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="US | Entertainment",Food Network
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/3915.ts
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="FOX NEWS" tvg-logo="https://pmcvariety.files.wordpress.com/2013/12/fox-news-logo.jpg?w=1000" group-title="US/CA News",FOX NEWS
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/841.ts
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="https://www.cspire.com/resources/images/fiberhome/super_hdtv/tv_guide_logos/logo-freeform.jpg" group-title="US | Entertainment",Freeform
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/3946.ts
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="http://cdn.exstreamist.com/wp-content/uploads/2015/08/watch-FX-online.jpg" group-title="US | Entertainment",FX
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/834.ts
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="http://cdn.skim.gs/images/ekzwvdmjcdosay9ysjfg/tv-shows-renewed-fxx" group-title="US | Entertainment",FXX
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/833.ts
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="LMN" tvg-logo="http://1.bp.blogspot.com/-p2Y1LYI36Fk/TtUfLue5nHI/AAAAAAAADIs/HF2UIOhU4D8/s500/Lifetime+Movie+Network+logo.png" group-title="US | Cinema",LMN
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/34.ts
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-card.png" group-title="US/CA News",MSNBC
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/721.ts
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="NAT GEO" tvg-logo="" group-title="Documentary",NAT GEO
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/35877.ts
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="OWN OPRAH" tvg-logo="https://yt3.ggpht.com/-jxomUqSwSds/AAAAAAAAAAI/AAAAAAAAAAA/Lkw8UTmRVOw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US | Entertainment",OWN OPRAH
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/694.ts
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="OXYGEN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/Oxygen_logo_2008.svg/revision/latest/scale-to-width-down/200?cb=20091120173612" group-title="US | Entertainment",OXYGEN
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/693.ts
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="US | Entertainment",SYFY
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/3953.ts
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="http://logok.org/wp-content/uploads/2014/12/TBS-logo-blue.png" group-title="US | Entertainment",TBS
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/625.ts
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="" group-title="US | Entertainment",TLC
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/3952.ts
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://i.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg" group-title="US | Entertainment",TNT
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/3896.ts
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="http://thebrandusa.info/enews/wp-content/uploads/sites/12/2015/08/travel_channel_logo.jpg" group-title="US | Entertainment",Travel Channel
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/3910.ts
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="TRU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="US | Entertainment",TRU TV
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/3876.ts
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA NETWORK" tvg-logo="http://www.cableone.net/img/channel-logos/usa-network.png" group-title="US | Entertainment",USA NETWORK
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/3974.ts
+#EXTINF:-1 tvg-id="DiscoveryVelocity.us" tvg-name="VELOCITY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png" group-title="US | Entertainment",VELOCITY
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/461.ts
+#EXTINF:-1 tvg-id="" tvg-name="WE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/WE_tv.svg/400px-WE_tv.svg.png" group-title="US | Entertainment",WE TV
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/456.ts
