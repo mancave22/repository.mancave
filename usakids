@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1,BABY TV
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/2728.ts
-#EXTINF:-1,BOOMERANG
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/35.ts
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="US| Boomerang HD_" tvg-logo="https://vignette4.wikia.nocookie.net/cartoonnetwork/images/4/47/Boomerang_US_logo.png/revision/latest?cb=20110804210704" group-title="US | Kids",Boomerang
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/3937.ts
 #EXTINF:-1,CARTOON NETWORK
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/39.ts
 #EXTINF:-1,DISNEY CHANNEL
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/804.ts
 #EXTINF:-1,DISNEY JR
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/1852.ts
-#EXTINF:-1,DISNEY XD
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/803.ts
+#EXTINF:-1 tvg-id="disney.channel.02124.ontvtonight.com.69047105" tvg-name="US| DISNEY HD_" tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" group-title="US | Kids",DISNEY
+http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/7491.ts
 #EXTINF:-1,NICK JR
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/830.ts
 #EXTINF:-1,NICK TOONS
