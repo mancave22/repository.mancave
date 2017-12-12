@@ -30,16 +30,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>number 07</cname>
-	<item>
-	<title>[COLOR blue]Music[/COLOR] [COLOR green]ONLINE[/COLOR][COLOR red]UNDER CONSTRUSTION[/COLOR]</title>
-<link>ignore</link>
-<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://www.museumofhealthcare.ca/images/MusicAndMemory.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/Music</externallink>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>number 08</cname>
 	<item>
 	<title>[COLOR blue]Live Cams[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
@@ -47,6 +37,16 @@
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://www.azoosh.com/wp-content/uploads/2014/08/Webcams-cover-header-banner-web-cam-photos-big-bold-white-type-heading-pics.jpg</thumbnail>
    <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/livecamstree</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>number 07</cname>
+	<item>
+	<title>[COLOR blue]Music[/COLOR] [COLOR green]ONLINE[/COLOR][COLOR red]UNDER CONSTRUSTION[/COLOR]</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://www.museumofhealthcare.ca/images/MusicAndMemory.jpg</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/Music</externallink>
 	</item>
 </streaminginfo>
 <streaminginfo>
