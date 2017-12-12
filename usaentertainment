@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="I10035.labs.zap2it.com" tvg-name="US: A&E" tvg-logo="http://teamnutz.info/guide/logos/AE.png" group-title="USA Channels",A&E
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/30.ts
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="US| AMC HD_" tvg-logo="https://www.cabletv.com/images/ctv_responsive/channels/amc.png" group-title="US | Entertainment",AMC
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="US| AMC HD_" tvg-logo="http://www.pandorazwieback.com/wp-content/uploads/2016/10/amc_logo-300x300.png" group-title="US | Entertainment",AMC
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/1045.ts
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US| ANIMAL PLANET HD_" tvg-logo="" group-title="US| Documentary",ANIMAL PLANET
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US| ANIMAL PLANET HD_" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Animal-Planet-logo-old.png" group-title="US| Documentary",ANIMAL PLANET
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/35865.ts
 #EXTINF:-1 tvg-id="I63236.labs.zap2it.com" tvg-name="US: BET" tvg-logo="http://teamnutz.info/guide/logos/BET.png" group-title="USA Channels",BET
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/38.ts
-#EXTINF:-1 tvg-id="" tvg-name="BRAVO PACIFIC HD_" tvg-logo="" group-title="US | Entertainment",BRAVO 
+#EXTINF:-1 tvg-id="" tvg-name="BRAVO PACIFIC HD_" tvg-logo="https://eksith.files.wordpress.com/2009/03/bravo_tv.png" group-title="US | Entertainment",BRAVO 
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/35846.ts
 #EXTINF:-1 tvg-id="I59440.labs.zap2it.com" tvg-name="US: CMT" tvg-logo="http://teamnutz.info/guide/logos/CMT.png" group-title="USA Channels",CMT
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/424.ts
@@ -19,7 +19,7 @@ http://thesenutz.xyz:2052/live/fordtom/tomford2019/43.ts
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/44.ts
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="DESTINATION AMERICA" tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2017/01/Destination-America.jpg?cdbb91" group-title="US | Entertainment",DESTINATION AMERICA
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/15918.ts
-#EXTINF:-1 tvg-id="" tvg-name="US| DISCOVERY PACIFIC HD_" tvg-logo="" group-title="US| Documentary",DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-name="US| DISCOVERY PACIFIC HD_" tvg-logo="http://www.lamac.org/res/channels/logos/_0041_discovery.png" group-title="US| Documentary",DISCOVERY
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/35854.ts
 #EXTINF:-1 tvg-id="I67375.labs.zap2it.com" tvg-name="US: DIY NETWORK" tvg-logo="http://teamnutz.info/guide/logos/DIY%20Network.png" group-title="USA Channels",DIY NETWORK
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/49.ts
@@ -51,9 +51,9 @@ http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/34.ts
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/721.ts
 #EXTINF:-1 tvg-id="I60964.labs.zap2it.com" tvg-name="MTV" tvg-logo="http://teamnutz.info/guide/logos/MTV%20US.png" group-title="USA Channels",MTV
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/228.ts
-#EXTINF:-1 tvg-id="NASAChannel.us" tvg-name="US| NASA TV_" tvg-logo="" group-title="US | Entertainment",NASA TV
+#EXTINF:-1 tvg-id="NASAChannel.us" tvg-name="US| NASA TV_" tvg-logo="http://www.microcapobserver.com/wp-content/uploads/2015/03/NASA.jpg" group-title="US | Entertainment",NASA TV
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/3957.ts
-#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="NAT GEO" tvg-logo="" group-title="Documentary",NAT GEO
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="NAT GEO" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2015/01/National-Geographic-Channel-HD-Logo.jpg" group-title="Documentary",NAT GEO
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/35877.ts
 #EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="OWN OPRAH" tvg-logo="https://yt3.ggpht.com/-jxomUqSwSds/AAAAAAAAAAI/AAAAAAAAAAA/Lkw8UTmRVOw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US | Entertainment",OWN OPRAH
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/694.ts
@@ -65,7 +65,7 @@ http://thesenutz.xyz:2052/live/fordtom/tomford2019/2519.ts
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/3953.ts
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="http://logok.org/wp-content/uploads/2014/12/TBS-logo-blue.png" group-title="US | Entertainment",TBS
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/625.ts
-#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="" group-title="US | Entertainment",TLC
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="https://pmcdeadline2.files.wordpress.com/2013/04/tlc-logo__130404131002.jpg" group-title="US | Entertainment",TLC
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/3952.ts
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://i.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg" group-title="US | Entertainment",TNT
 http://limitlessvpn.hopto.org:24625/live/tomtruitt20c/truittt/3896.ts
