@@ -1,77 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 32: ST JOHNS AT #16 ARIZONA STATE 12/8 8PM EST" tvg-logo="" group-title="NCAAB",NCAAB 32: ST JOHNS AT #16 ARIZONA STATE 12/8 8PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12471.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 33: COLORADO STATE AT OREGON 12/8 10PM EST" tvg-logo="" group-title="NCAAB",NCAAB 33: COLORADO STATE AT OREGON 12/8 10PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12470.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 34: OKLAHOMA AT #25 USC 12/8 1030PM EST" tvg-logo="" group-title="NCAAB",NCAAB 34: OKLAHOMA AT #25 USC 12/8 1030PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12469.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 35: #22 NEVADA AT #20 TCU 12/8 1145PM EST" tvg-logo="" group-title="NCAAB",NCAAB 35: #22 NEVADA AT #20 TCU 12/8 1145PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12468.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 36: #1 DUKE AT BOSTON COLLEGE 12/9 12PM EST" tvg-logo="" group-title="NCAAB",NCAAB 36: #1 DUKE AT BOSTON COLLEGE 12/9 12PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12467.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 37: UCLA AT MICHIGAN 12/9 12PM EST" tvg-logo="" group-title="NCAAB",NCAAB 37: UCLA AT MICHIGAN 12/9 12PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12466.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 38: MARQUETTE AT WISCONSIN 12/9 12PM EST" tvg-logo="" group-title="NCAAB",NCAAB 38: MARQUETTE AT WISCONSIN 12/9 12PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12465.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 39: COASTAL CAROLINA AT SOUTH CAROLINA 12/9 12PM EST" tvg-logo="" group-title="NCAAB",NCAAB 39: COASTAL CAROLINA AT SOUTH CAROLINA 12/9 12PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12464.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 40: MONMOUTH AT #8 KENTUCKY 12/9 12PM EST" tvg-logo="" group-title="NCAAB",NCAAB 40: MONMOUTH AT #8 KENTUCKY 12/9 12PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12463.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 41: INDIANA AT LOUISVILLE 12/9 2PM EST" tvg-logo="" group-title="NCAAB",NCAAB 41: INDIANA AT LOUISVILLE 12/9 2PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12462.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 42: COPPIN STATE AT CONNECTICUT 12/9 2PM EST" tvg-logo="" group-title="NCAAB",NCAAB 42: COPPIN STATE AT CONNECTICUT 12/9 2PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12461.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 43: YALE AT ST BONAVENTURE 12/9 2PM EST" tvg-logo="" group-title="NCAAB",NCAAB 43: YALE AT ST BONAVENTURE 12/9 2PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12460.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 44: LIPSCOMB AT #24 TENNESSEE 12/9 215PM EST" tvg-logo="" group-title="NCAAB",NCAAB 44: LIPSCOMB AT #24 TENNESSEE 12/9 215PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12459.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 45: NEBRASKA AT CREIGHTON 12/9 230PM EST" tvg-logo="" group-title="NCAAB",NCAAB 45: NEBRASKA AT CREIGHTON 12/9 230PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12458.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 46: SAINT JOSEPHS AT TEMPLE 12/9 230PM EST" tvg-logo="" group-title="NCAAB",NCAAB 46: SAINT JOSEPHS AT TEMPLE 12/9 230PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12457.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 47: NORTH CAROLINA A&T AT GEORGETOWN 12/9 230PM EST" tvg-logo="" group-title="NCAAB",NCAAB 47: NORTH CAROLINA A&T AT GEORGETOWN 12/9 230PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12456.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 48: PENNSYLVANIA AT DAYTON 12/9 3PM EST" tvg-logo="" group-title="NCAAB",NCAAB 48: PENNSYLVANIA AT DAYTON 12/9 3PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12455.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 49: GEORGE WASHINGTON AT PENN STATE 12/9 4PM EST" tvg-logo="" group-title="NCAAB",NCAAB 49: GEORGE WASHINGTON AT PENN STATE 12/9 4PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12454.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 50: #6 WICHITA STATE AT OKLAHOMA STATE 12/9 4PM EST" tvg-logo="" group-title="NCAAB",NCAAB 50: #6 WICHITA STATE AT OKLAHOMA STATE 12/9 4PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12453.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 51: UAB AT AUBURN 12/9 430PM EST" tvg-logo="" group-title="NCAAB",NCAAB 51: UAB AT AUBURN 12/9 430PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12452.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 52: COLORADO AT #13 XAVIER 12/9 5PM EST" tvg-logo="" group-title="NCAAB",NCAAB 52: COLORADO AT #13 XAVIER 12/9 5PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12451.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 53: CALIFORNIA AT SAN DIEGO STATE 12/9 5PM EST" tvg-logo="" group-title="NCAAB",NCAAB 53: CALIFORNIA AT SAN DIEGO STATE 12/9 5PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12450.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 54: SOUTHERN UTAH AT #3 MICHIGAN STATE 12/9 6PM EST" tvg-logo="" group-title="NCAAB",NCAAB 54: SOUTHERN UTAH AT #3 MICHIGAN STATE 12/9 6PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12449.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 55: #5 FLORIDA STATE AT #17 CINCINNATI 12/9 6PM EST" tvg-logo="" group-title="NCAAB",NCAAB 55: #5 FLORIDA STATE AT #17 CINCINNATI 12/9 6PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12448.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 56: #14 MINNESOTA AT ARKANSAS 12/9 645PM EST" tvg-logo="" group-title="NCAAB",NCAAB 56: #14 MINNESOTA AT ARKANSAS 12/9 645PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12447.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 57: #9 NOTRE DAME AT DELAWARE 12/9 7PM EST" tvg-logo="" group-title="NCAAB",NCAAB 57: #9 NOTRE DAME AT DELAWARE 12/9 7PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12446.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 58: UTAH STATE AT UTAH 12/9 730PM EST" tvg-logo="" group-title="NCAAB",NCAAB 58: UTAH STATE AT UTAH 12/9 730PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12445.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 59: #18 WEST VIRGINIA AT PITTSBURGH 12/9 8PM EST" tvg-logo="" group-title="NCAAB",NCAAB 59: #18 WEST VIRGINIA AT PITTSBURGH 12/9 8PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12444.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 61: GREENBAY AT MISSOURI 12/9 9PM EST" tvg-logo="" group-title="NCAAB",NCAAB 61: GREENBAY AT MISSOURI 12/9 9PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12443.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 62: ALABAMA AT ARIZONA 12/9 10PM EST" tvg-logo="" group-title="NCAAB",NCAAB 62: ALABAMA AT ARIZONA 12/9 10PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12442.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 63: ARKANSAS-PINE BLUFF AT OREGON STATE 12/9 10PM EST" tvg-logo="" group-title="NCAAB",NCAAB 63: ARKANSAS-PINE BLUFF AT OREGON STATE 12/9 10PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12441.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 64: ILLINOIS AT UNLV 12/9 1145 EST" tvg-logo="" group-title="NCAAB",NCAAB 64: ILLINOIS AT UNLV 12/9 1145 EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12440.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 65: TULANE AT FLORIDA STATE 12/10 12PM EST" tvg-logo="" group-title="NCAAB",NCAAB 65: TULANE AT FLORIDA STATE 12/10 12PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12439.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 66: LASALLE AT #4 VILLANOVA 12/10 1PM EST" tvg-logo="" group-title="NCAAB",NCAAB 66: LASALLE AT #4 VILLANOVA 12/10 1PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12438.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 67: #16 ARIZONA STATE AT #2 KANSAS 12/10 2PM EST" tvg-logo="" group-title="NCAAB",NCAAB 67: #16 ARIZONA STATE AT #2 KANSAS 12/10 2PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12437.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 68: SOUTHERN AT IOWA 12/10 5PM EST" tvg-logo="" group-title="NCAAB",NCAAB 68: SOUTHERN AT IOWA 12/10 5PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12436.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 69: IUPUI AT #21 PURDUE 12/10 7PM EST" tvg-logo="" group-title="NCAAB",NCAAB 69: IUPUI AT #21 PURDUE 12/10 7PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12435.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAB 70: #12 GONZAGA AT WASHINGTON 12/10 8PM EST" tvg-logo="" group-title="NCAAB",NCAAB 70: #12 GONZAGA AT WASHINGTON 12/10 8PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/12434.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 1: BRYANT AT LOUISVILLE 12/11 7PM EST" tvg-logo="" group-title="NCAAB",NCAAB 1: BRYANT AT LOUISVILLE 12/11 7PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12637.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 2: CHICAGO STATE AT NORTHWESTERN 12/11 7PM EST" tvg-logo="" group-title="NCAAB",NCAAB 2: CHICAGO STATE AT NORTHWESTERN 12/11 7PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12636.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 3: DRAKE AT #14 MINNESOTA 12/11 8PM EST" tvg-logo="" group-title="NCAAB",NCAAB 3: DRAKE AT #14 MINNESOTA 12/11 8PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12635.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 4: ALABAMA A&M AT DEPAUL 12/11 9PM EST" tvg-logo="" group-title="NCAAB",NCAAB 4: ALABAMA A&M AT DEPAUL 12/11 9PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12634.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 5: TEXAS SOUTHERN AT OREGON 12/11 10PM EST" tvg-logo="" group-title="NCAAB",NCAAB 5: TEXAS SOUTHERN AT OREGON 12/11 10PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12633.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 6: FORDHAM AT RUTGERS 12/12 7PM EST" tvg-logo="" group-title="NCAAB",NCAAB 6: FORDHAM AT RUTGERS 12/12 7PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12632.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 7: MISSISSIPPI STATE AT #17 CINCINNATI 12/12 7PM EST" tvg-logo="" group-title="NCAAB",NCAAB 7: MISSISSIPPI STATE AT #17 CINCINNATI 12/12 7PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12631.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 8: SAINT PETERS AT #19 SETON HALL 12/12 7PM EST" tvg-logo="" group-title="NCAAB",NCAAB 8: SAINT PETERS AT #19 SETON HALL 12/12 7PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12630.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 9: SAN DIEGO AT COLORADO 12/12 8PM EST" tvg-logo="" group-title="NCAAB",NCAAB 9: SAN DIEGO AT COLORADO 12/12 8PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12629.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 10: MICHIGAN AT TEXAS 12/12 9PM EST" tvg-logo="" group-title="NCAAB",NCAAB 10: MICHIGAN AT TEXAS 12/12 9PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12628.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 11: ALBANY AT MEMPHIS 12/12 9PM EST" tvg-logo="" group-title="NCAAB",NCAAB 11: ALBANY AT MEMPHIS 12/12 9PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12627.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 12: JACKSONVILLE STATE AT OREGON STATE 12/12 10PM EST" tvg-logo="" group-title="NCAAB",NCAAB 12: JACKSONVILLE STATE AT OREGON STATE 12/12 10PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12626.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 13: #4 VILLANOVA AT TEMPLE 12/13 7PM EST" tvg-logo="" group-title="NCAAB",NCAAB 13: #4 VILLANOVA AT TEMPLE 12/13 7PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12625.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 14: LONGWOOD AT ILLINOIS 12/13 8PM EST" tvg-logo="" group-title="NCAAB",NCAAB 14: LONGWOOD AT ILLINOIS 12/13 8PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12624.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 15: WESTERN KENTUCKY AT WISCONSIN 12/13 8PM EST" tvg-logo="" group-title="NCAAB",NCAAB 15: WESTERN KENTUCKY AT WISCONSIN 12/13 8PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12623.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 16: HOUSTON AT LSU 12/13 9PM EST" tvg-logo="" group-title="NCAAB",NCAAB 16: HOUSTON AT LSU 12/13 9PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12622.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 17: PORTLAND ST AT OREGON 12/13 10PM EST" tvg-logo="" group-title="NCAAB",NCAAB 17: PORTLAND ST AT OREGON 12/13 10PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12621.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 18: VALPARAISO AT NORTHWESTERN 12/14 8PM EST" tvg-logo="" group-title="NCAAB",NCAAB 18: VALPARAISO AT NORTHWESTERN 12/14 8PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12620.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 19: TEXAS SOUTHERN AT #23 BAYLOR 12/14 830PM EST" tvg-logo="" group-title="NCAAB",NCAAB 19: TEXAS SOUTHERN AT #23 BAYLOR 12/14 830PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12619.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 21: SANTA CLARA AT #25 USC 12/14 10PM EST" tvg-logo="" group-title="NCAAB",NCAAB 21: SANTA CLARA AT #25 USC 12/14 10PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12618.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 22: SOUTH DAKOTA STATE AT COLORADO 12/15 8PM EST" tvg-logo="" group-title="NCAAB",NCAAB 22: SOUTH DAKOTA STATE AT COLORADO 12/15 8PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12617.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 23: MARYLAND-EASTERN SHORE AT CREIGHTON 12/15 9PM EST" tvg-logo="" group-title="NCAAB",NCAAB 23: MARYLAND-EASTERN SHORE AT CREIGHTON 12/15 9PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12616.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 24: DENVER AT STANFORD 12/15 10PM EST" tvg-logo="" group-title="NCAAB",NCAAB 24: DENVER AT STANFORD 12/15 10PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12615.ts
