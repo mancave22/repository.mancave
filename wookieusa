@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="USA | ABC PHILLY" tvg-logo="http://edwardlamar.com/tvlogos/logos/ABC.png" group-title="USA ENGLISH",USA | ABC PHILLY
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47780.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC West" tvg-logo="http://edwardlamar.com/tvlogos/logos/ABC.png" group-title="USA ENGLISH",USA | ABC West
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47777.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC News" tvg-logo="http://edwardlamar.com/tvlogos/logos/ABC%20News.png" group-title="USA ENGLISH",USA | ABC News
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47779.ts
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="USA | CBS" tvg-logo="http://edwardlamar.com/tvlogos/logos/CBS.png" group-title="USA ENGLISH",USA | CBS
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47754.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | FOX PHILLY" tvg-logo="http://edwardlamar.com/tvlogos/logos/FOX%20USA.png" group-title="USA ENGLISH",USA | FOX PHILLY
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59697.ts
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="USA | FOX RALEIGH" tvg-logo="http://edwardlamar.com/tvlogos/logos/FOX%20USA.png" group-title="USA ENGLISH",USA | FOX RALEIGH
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47720.ts
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="USA | NBC PHILLY" tvg-logo="http://edwardlamar.com/tvlogos/logos/NBC.png" group-title="USA ENGLISH",USA | NBC PHILLY
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47664.ts
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="USA | A&E" tvg-logo="http://edwardlamar.com/marvel/logos/AE.png" group-title="USA ENGLISH",USA | A&E
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47781.ts
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="USA | AMC" tvg-logo="http://edwardlamar.com/tvlogos/logos/AMC%20USA.png" group-title="USA ENGLISH",USA | AMC
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47767.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="USA | Animal Planet" tvg-logo="http://edwardlamar.com/tvlogos/logos/ANIMAL%20PLANET%20USA.png" group-title="USA ENGLISH",USA | Animal Planet
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47765.ts
+#EXTINF:-1 tvg-id="BET.us" tvg-name="USA | BET" tvg-logo="http://edwardlamar.com/tvlogos/logos/BET%20USA.png" group-title="USA ENGLISH",USA | BET
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47761.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bloomberg" tvg-logo="" group-title="",USA | Bloomberg
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/51358.ts
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="USA | Boomerang" tvg-logo="http://edwardlamar.com/tvlogos/logos/BOOMERANG.png" group-title="USA ENGLISH",USA | Boomerang
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47758.ts
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="USA | Bravo" tvg-logo="http://edwardlamar.com/tvlogos/logos/BRAVO.png" group-title="USA ENGLISH",USA | Bravo
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47757.ts
+#EXTINF:-1 tvg-id="CNBC" tvg-name="USA | CNBC" tvg-logo="http://edwardlamar.com/tvlogos/logos/CNBC.png" group-title="USA ENGLISH",USA | CNBC
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47748.ts
+#EXTINF:-1 tvg-id="CNN HD" tvg-name="USA | CNN" tvg-logo="http://edwardlamar.com/tvlogos/logos/CNN.png" group-title="USA ENGLISH",USA | CNN
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47747.ts
+#EXTINF:-1 tvg-id="CW.us" tvg-name="USA | CW" tvg-logo="http://edwardlamar.com/tvlogos/logos/CW.png" group-title="USA ENGLISH",USA | CW
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47741.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="USA | Cartoon Network" tvg-logo="http://edwardlamar.com/tvlogos/logos/CARTOON%20NETWORK.png" group-title="KIDS TV",USA | Cartoon Network
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47755.ts
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="USA | Comedy Central" tvg-logo="http://edwardlamar.com/tvlogos/logos/COMEDY%20CENTRAL%20USA.png" group-title="USA ENGLISH",USA | Comedy Central
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47746.ts
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="USA | Cooking Channel" tvg-logo="http://edwardlamar.com/tvlogos/logos/COOKING%20CHANNEL%20HD%20USA.png" group-title="USA ENGLISH",USA | Cooking Channel
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47745.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="USA | Discovery Channel" tvg-logo="http://edwardlamar.com/tvlogos/logos/DISCOVERY%20HD%20USA.png" group-title="USA ENGLISH",USA | Discovery Channel
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47739.ts
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="USA | Disney Channel" tvg-logo="http://edwardlamar.com/tvlogos/logos/DISNEY%20CHANNEL%20HD%20USA.png" group-title="KIDS TV",USA | Disney Channel
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47736.ts
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="USA | Disney Jr" tvg-logo="http://edwardlamar.com/tvlogos/logos/DISNEY%20JR%20USA.png" group-title="KIDS TV",USA | Disney Jr
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47735.ts
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="USA | Disney XD" tvg-logo="http://edwardlamar.com/tvlogos/logos/DISNEY%20XD.png" group-title="KIDS TV",USA | Disney XD
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47734.ts
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="USA | E!" tvg-logo="http://edwardlamar.com/tvlogos/logos/E!.png" group-title="USA ENGLISH",USA | E!
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47732.ts
+#EXTINF:-1 tvg-id="FX.us" tvg-name="USA | FX" tvg-logo="http://edwardlamar.com/tvlogos/logos/FX%20HD%20USA.png" group-title="USA ENGLISH",USA | FX
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47703.ts
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="USA | Food Network" tvg-logo="http://edwardlamar.com/tvlogos/logos/FOOD%20NETWORK%20HD%20USA.png" group-title="USA ENGLISH",USA | Food Network
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47721.ts
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="USA | Fox News" tvg-logo="http://edwardlamar.com/tvlogos/logos/FOX%20NEWS.png" group-title="USA ENGLISH",USA | Fox News
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47714.ts
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="USA | HGTV" tvg-logo="http://edwardlamar.com/tvlogos/logos/HGTV%20USA%20HD.png" group-title="USA ENGLISH",USA | HGTV
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47686.ts
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="USA | History Channel" tvg-logo="http://edwardlamar.com/tvlogos/logos/HISTORY%20USA.png" group-title="USA ENGLISH",USA | History Channel
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47685.ts
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="USA | MSNBC" tvg-logo="http://edwardlamar.com/tvlogos/logos/MSNBC.png" group-title="USA ENGLISH",USA | MSNBC
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47672.ts
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="USA | MTV" tvg-logo="http://edwardlamar.com/tvlogos/logos/MTV.png" group-title="USA ENGLISH",USA | MTV
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47671.ts
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="USA | Nat Geo" tvg-logo="http://edwardlamar.com/tvlogos/logos/NAT%20GEO%20HD%20USA.png" group-title="USA ENGLISH",USA | Nat Geo
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47666.ts
+#EXTINF:-1 tvg-id="Nickelodeon USA" tvg-name="USA | Nick" tvg-logo="http://edwardlamar.com/tvlogos/logos/NICKELODEON.png" group-title="KIDS TV",USA | Nick
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47656.ts
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="USA | Nick Jr" tvg-logo="http://edwardlamar.com/tvlogos/logos/NICK%20JR%20USA.png" group-title="KIDS TV",USA | Nick Jr
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47655.ts
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="USA | OWN" tvg-logo="http://edwardlamar.com/tvlogos/logos/OWN%20HD.png" group-title="USA ENGLISH",USA | OWN
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47653.ts
+#EXTINF:-1 tvg-id="Spike" tvg-name="USA | Spike" tvg-logo="http://edwardlamar.com/tvlogos/logos/SPIKE%20HD%20USA.png" group-title="USA ENGLISH",USA | Spike
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47637.ts
+#EXTINF:-1 tvg-id="SyFy USA" tvg-name="USA | SyFy" tvg-logo="http://edwardlamar.com/tvlogos/logos/SYFY%20HD%20USA.png" group-title="USA ENGLISH",USA | SyFy
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47628.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | TBN*" tvg-logo="" group-title="",USA | TBN*
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/50129.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="USA | TBS" tvg-logo="http://edwardlamar.com/tvlogos/logos/TBS%20HD%20USA.png" group-title="USA ENGLISH",USA | TBS
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47627.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="USA | TNT" tvg-logo="http://edwardlamar.com/tvlogos/logos/TNT%20HD%20USA.png" group-title="USA ENGLISH",USA | TNT
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47621.ts
+#EXTINF:-1 tvg-id="Travel Channel" tvg-name="USA | Travel Channel" tvg-logo="http://edwardlamar.com/tvlogos/logos/TRAVEL%20CHANNEL.png" group-title="USA ENGLISH",USA | Travel Channel
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47620.ts
+#EXTINF:-1 tvg-id="Tru TV" tvg-name="USA | TruTV" tvg-logo="http://edwardlamar.com/tvlogos/logos/Tru%20tv.png" group-title="USA ENGLISH",USA | TruTV
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47619.ts
+#EXTINF:-1 tvg-id="USA Network" tvg-name="USA | USA Network" tvg-logo="" group-title="USA ENGLISH",USA | USA Network
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/51196.ts
