@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=" IRE: SKY SPORTS ACTION" tvg-logo="" group-title="US/UK/CAN Directs",SKY SPORTS ACTION
+http://tvstreams.xyz:83/live/jacotest/jacotest!33/33980.ts
+#EXTINF:-1 tvg-id="" tvg-name=" IRE: SKY SPORTS ARENA" tvg-logo="" group-title="US/UK/CAN Directs",SKY SPORTS ARENA
+http://tvstreams.xyz:83/live/jacotest/jacotest!33/33979.ts
+#EXTINF:-1 tvg-id="" tvg-name=" IRE: SKY SPORTS CRICKET" tvg-logo="" group-title="US/UK/CAN Directs",SKY SPORTS CRICKET
+http://tvstreams.xyz:83/live/jacotest/jacotest!33/33978.ts
+#EXTINF:-1 tvg-id="" tvg-name=" IRE: SKY SPORTS FOOTBALL" tvg-logo="" group-title="US/UK/CAN Directs",SKY SPORTS FOOTBALL
+http://tvstreams.xyz:83/live/jacotest/jacotest!33/33977.ts
+#EXTINF:-1 tvg-id="" tvg-name=" IRE: SKY SPORTS GOLF" tvg-logo="" group-title="US/UK/CAN Directs",SKY SPORTS GOLF
+http://tvstreams.xyz:83/live/jacotest/jacotest!33/33976.ts
+#EXTINF:-1 tvg-id="" tvg-name=" IRE: SKY SPORTS MIX" tvg-logo="" group-title="US/UK/CAN Directs",SKY SPORTS MIX
+http://tvstreams.xyz:83/live/jacotest/jacotest!33/33974.ts
+#EXTINF:-1 tvg-id="" tvg-name=" IRE: SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="US/UK/CAN Directs",SKY SPORTS PREMIER LEAGUE
+http://tvstreams.xyz:83/live/jacotest/jacotest!33/33972.ts
