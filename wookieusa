@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ABC.us" tvg-name="USA | ABC PHILLY" tvg-logo="http://edwardlamar.com/tvlogos/logos/ABC.png" group-title="USA ENGLISH",USA | ABC PHILLY
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47780.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC West" tvg-logo="http://edwardlamar.com/tvlogos/logos/ABC.png" group-title="USA ENGLISH",USA | ABC West
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47777.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC News" tvg-logo="http://edwardlamar.com/tvlogos/logos/ABC%20News.png" group-title="USA ENGLISH",USA | ABC News
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47779.ts
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="USA | CBS" tvg-logo="http://edwardlamar.com/tvlogos/logos/CBS.png" group-title="USA ENGLISH",USA | CBS
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47754.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX PHILLY" tvg-logo="http://edwardlamar.com/tvlogos/logos/FOX%20USA.png" group-title="USA ENGLISH",USA | FOX PHILLY
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59697.ts
-#EXTINF:-1 tvg-id="FOX.us" tvg-name="USA | FOX RALEIGH" tvg-logo="http://edwardlamar.com/tvlogos/logos/FOX%20USA.png" group-title="USA ENGLISH",USA | FOX RALEIGH
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47720.ts
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="USA | NBC PHILLY" tvg-logo="http://edwardlamar.com/tvlogos/logos/NBC.png" group-title="USA ENGLISH",USA | NBC PHILLY
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47664.ts
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="USA | A&E" tvg-logo="http://edwardlamar.com/marvel/logos/AE.png" group-title="USA ENGLISH",USA | A&E
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47781.ts
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="USA | AMC" tvg-logo="http://edwardlamar.com/tvlogos/logos/AMC%20USA.png" group-title="USA ENGLISH",USA | AMC
