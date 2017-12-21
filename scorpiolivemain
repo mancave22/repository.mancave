@@ -1,31 +1,26 @@
-<streamingInfos>
-<streaminginfo>
-	<cname>number 01</cname>
-	<item>
-	<title>Uk Entertainment</title>
-<link>ignore</link>
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>UK Sport</name>
+<thumbnail>http://supremacy.org.uk/Scorpio%20Streams%20HQ/A%20Picks/Live%20Tv.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/scorpiouksports</externallink>
 <fanart></fanart>
-<thumbnail></thumbnail>
-   <externallink>http://mancavekodi.com$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>number 01</cname>
-	<item>
-	<title>Uk Sports</title>
-<link>ignore</link>
+<info>Scorpio Streams HQ</info>
+</channel>
+<channel>
+<name>UK Footy</name>
+<thumbnail>http://supremacy.org.uk/Scorpio%20Streams%20HQ/A%20Picks/Live%20Tv.png</thumbnail>
+<externallink></externallink>
 <fanart></fanart>
-<thumbnail></thumbnail>
-   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/scorpiouksports</externallink>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>number 01</cname>
-	<item>
-	<title>UK Footy</title>
-<link>ignore</link>
+<info>Scorpio Streams HQ</info>
+</channel>
+<channel>
+<name>UK Entertainment</name>
+<thumbnail>http://supremacy.org.uk/Scorpio%20Streams%20HQ/A%20Picks/Live%20Tv.png</thumbnail>
+<externallink></externallink>
 <fanart></fanart>
-<thumbnail></thumbnail>
-   <externallink>http://mancavekodi.com$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
+<info>Scorpio Streams HQ</info>
+</channel>
+
+</channels>
