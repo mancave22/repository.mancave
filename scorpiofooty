@@ -1,4 +1,79 @@
+
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="3PM:!CA! TSN Four" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:!CA! TSN Four
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28683.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:!CA! TSN One" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:!CA! TSN One
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28682.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:!CA! TSN Three" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:!CA! TSN Three
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28681.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:!CA! TSN Two" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:!CA! TSN Two
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28680.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 1 - B" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 1 - B
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28679.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 1. ( MATCH TIME )" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 1. ( MATCH TIME )
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28678.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 2 - B" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 2 - B
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28677.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 2. ( MATCH TIME )" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 2. ( MATCH TIME )
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28676.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 3 - B" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 3 - B
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28675.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 3. ( MATCH TIME )" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 3. ( MATCH TIME )
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28674.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 4 - B" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 4 - B
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28673.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 4. ( MATCH TIME )" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 4. ( MATCH TIME )
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28672.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 5 - B" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 5 - B
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28671.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 5. ( MATCH TIME )" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 5. ( MATCH TIME )
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28670.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 6 - B" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 6 - B
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28669.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 6.( MATCH TIME )" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 6.( MATCH TIME )
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28668.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 7. ( MATCH TIME )" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 7. ( MATCH TIME )
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28667.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:EPL 8. ( MATCH TIME )" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:EPL 8. ( MATCH TIME )
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28666.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:Live Football 1" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:Live Football 1
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28665.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:Live Football 2" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:Live Football 2
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28664.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:Live Football 3" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:Live Football 3
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28663.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:Live Football 4" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:Live Football 4
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28662.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:Live Football 5" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:Live Football 5
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28661.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:Live Football 6" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:Live Football 6
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28660.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:NBCSN Premier League Extra 1" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:NBCSN Premier League Extra 1
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28659.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:NBCSN Premier League Extra 2" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:NBCSN Premier League Extra 2
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28658.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:NBCSN Premier League Extra 3" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:NBCSN Premier League Extra 3
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28657.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:NBCSN Premier League Extra 4" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:NBCSN Premier League Extra 4
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28656.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:NBCSN Premier League Extra 5" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:NBCSN Premier League Extra 5
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28655.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:SFR SPORT 1 HD" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:SFR SPORT 1 HD
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28654.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:Skynet Sports 1" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:Skynet Sports 1
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28653.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:SkyNet Sports 2" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:SkyNet Sports 2
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28652.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:SkyNet Sports 3" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:SkyNet Sports 3
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28651.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:SkyNet Sports 4" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:SkyNet Sports 4
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28650.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:SkyNet Sports 5" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:SkyNet Sports 5
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28649.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:SkyNet Sports 6B" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:SkyNet Sports 6B
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28648.ts
+#EXTINF:-1 tvg-id="" tvg-name="3PM:SkyNet Sports HD" tvg-logo="" group-title="3PM EPL SECTION ( MATCHDAY SECTION )",3PM:SkyNet Sports HD
+http://eliteiptvhosting.ddns.net:8000/live/32434123/sFEkCNLoNe/28647.ts
 #EXTINF:-1 tvg-id="EPL 01" tvg-name="EPL 1:" tvg-logo="https://i.imgur.com/WuISo1J.png" group-title="EPL",EPL 1:
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/9197.ts
 #EXTINF:-1 tvg-id="EPL 02" tvg-name="EPL 2:" tvg-logo="https://i.imgur.com/WuISo1J.png" group-title="EPL",EPL 2:
