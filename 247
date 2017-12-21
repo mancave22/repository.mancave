@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7 13 REASONS WHY" tvg-logo="" group-title="24/7 Binge Watch Episodes", 13 REASONS WHY
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59748.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 80s 90s Classic Cartoons" tvg-logo="" group-title="KIDS TV", 80s 90s Classic Cartoons
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59670.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title=" Binge Watch Episodes",24/7 ALF
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title=" Binge Watch Episodes", ALF
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59669.ts
 #EXTINF:-1 tvg-id="" tvg-name=" ALL IN THE FAMILY" tvg-logo="" group-title=" Binge Watch Episodes", ALL IN THE FAMILY
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59663.ts
@@ -29,8 +27,6 @@ http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59666.ts
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59655.ts
 #EXTINF:-1 tvg-id="" tvg-name=" GAME OF THRONES" tvg-logo="" group-title=" Binge Watch Episodes", GAME OF THRONES
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59654.ts
-#EXTINF:-1 tvg-id="" tvg-name=" GOTHAM" tvg-logo="" group-title=" Binge Watch Episodes", GOTHAM
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59746.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Impractical Jokers" tvg-logo="" group-title=" Binge Watch Episodes", Impractical Jokers
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59652.ts
 #EXTINF:-1 tvg-id="" tvg-name=" In Living Color" tvg-logo="" group-title=" Binge Watch Episodes", In Living Color
@@ -47,22 +43,12 @@ http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59647.ts
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59646.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Mork and Mindy" tvg-logo="" group-title=" Binge Watch Episodes", Mork and Mindy
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59645.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ORANGE IS THE NEW BLACK" tvg-logo="" group-title=" Binge Watch Episodes", ORANGE IS THE NEW BLACK
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59644.ts
 #EXTINF:-1 tvg-id="" tvg-name=" PAW Patrol" tvg-logo="" group-title="KIDS TV", PAW Patrol
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59643.ts
 #EXTINF:-1 tvg-id="" tvg-name=" PEPPA PIG" tvg-logo="" group-title="KIDS TV", PEPPA PIG
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59642.ts
 #EXTINF:-1 tvg-id="" tvg-name=" BAND OF BROTHERS" tvg-logo="" group-title=" Binge Watch Episodes", BAND OF BROTHERS
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59661.ts
-#EXTINF:-1 tvg-id="" tvg-name=" PAWPATROL" tvg-logo="" group-title=" Binge Watch Episodes", PAWPATROL
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59744.ts
-#EXTINF:-1 tvg-id="" tvg-name=" IMPRATICAL JOKERS" tvg-logo="" group-title=" Binge Watch Episodes", IMPRATICAL JOKERS
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59745.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ASH VS EVIL DEAD" tvg-logo="" group-title=" Binge Watch Episodes", ASH VS EVIL DEAD
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59747.ts
-#EXTINF:-1 tvg-id="" tvg-name=" GOLD RUSH" tvg-logo="" group-title=" Binge Watch Episodes", GOLD RUSH
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59653.ts
 #EXTINF:-1 tvg-id="" tvg-name=" SNAPPED" tvg-logo="" group-title=" Binge Watch Episodes", SNAPPED
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59637.ts
 #EXTINF:-1 tvg-id="" tvg-name=" SONS OF ANARCHY" tvg-logo="" group-title=" Binge Watch Episodes", SONS OF ANARCHY
@@ -73,8 +59,6 @@ http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59635.ts
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59634.ts
 #EXTINF:-1 tvg-id="" tvg-name=" SUPERWHY" tvg-logo="" group-title=" Binge Watch Episodes", SUPERWHY
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59633.ts
-#EXTINF:-1 tvg-id="" tvg-name=" THE DEFENDERS" tvg-logo="" group-title=" Binge Watch Episodes", THE DEFENDERS
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59632.ts
 #EXTINF:-1 tvg-id="" tvg-name=" THE MUNSTERS" tvg-logo="" group-title=" Binge Watch Episodes", THE MUNSTERS
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59631.ts
 #EXTINF:-1 tvg-id="" tvg-name=" THE SOPRANOS" tvg-logo="" group-title=" Binge Watch Episodes", THE SOPRANOS
@@ -87,35 +71,17 @@ http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59664.ts
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59628.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Unsolved Mysteries" tvg-logo="" group-title=" Binge Watch Episodes", Unsolved Mysteries
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59627.ts
-#EXTINF:-1 tvg-id="" tvg-name=" THE BIG BANG THEORY" tvg-logo="" group-title=" Binge Watch Episodes", THE BIG BANG THEORY
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59740.ts
 #EXTINF:-1 tvg-id="" tvg-name=" SMURFS" tvg-logo="" group-title="KIDS TV", SMURFS
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59638.ts
 #EXTINF:-1 tvg-id="" tvg-name=" SEINFELD" tvg-logo="" group-title=" Binge Watch Episodes", SEINFELD
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59639.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Saved By The Bell" tvg-logo="" group-title=" Binge Watch Episodes", Saved By The Bell
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59665.ts
-#EXTINF:-1 tvg-id="" tvg-name=" RESCUE RANGERS" tvg-logo="" group-title="KIDS TV", RESCUE RANGERS
+#EXTINF:-1 tvg-id="" tvg-name=" RESCUE RANGERS" tvg-logo="" group-title="KIDS TV", The Simpsons
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59640.ts
-#EXTINF:-1 tvg-id="" tvg-name=" RETRO-TV" tvg-logo="" group-title=" Binge Watch Episodes", RETRO-TV
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59743.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SCI-FI" tvg-logo="" group-title=" Binge Watch Episodes", SCI-FI
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59742.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STRANGER THINGS" tvg-logo="" group-title=" Binge Watch Episodes", STRANGER THINGS
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59741.ts
-#EXTINF:-1 tvg-id="" tvg-name=" VOLTRON" tvg-logo="" group-title=" Binge Watch Episodes", VOLTRON
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59738.ts
 #EXTINF:-1 tvg-id="" tvg-name=" POWER" tvg-logo="" group-title=" Binge Watch Episodes", POWER
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59641.ts
-#EXTINF:-1 tvg-id="" tvg-name=" VIKINGS" tvg-logo="" group-title=" Binge Watch Episodes", VIKINGS
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/59739.ts
-#EXTINF:-1 tvg-id="" tvg-name="- 3rd Rock From the Sun" tvg-logo="" group-title=" Binge Watch Episodes",- 3rd Rock From the Sun
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/60853.ts
-#EXTINF:-1 tvg-id="" tvg-name="- American  Dad" tvg-logo="" group-title=" Binge Watch Episodes",- American  Dad
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/60852.ts
-#EXTINF:-1 tvg-id="" tvg-name="- American Dad" tvg-logo="" group-title=" Binge Watch Episodes",- American Dad
-http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/60851.ts
-#EXTINF:-1 tvg-id="" tvg-name="- Aqua Teen Hunger Force" tvg-logo="" group-title=" Binge Watch Episodes",- Aqua Teen Hunger Force
+#EXTINF:-1 tvg-id="" tvg-name="- Aqua Teen Hunger Force" tvg-logo="" group-title=" Binge Watch Episodes", Aqua Teen Hunger Force
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/60850.ts
 #EXTINF:-1 tvg-id="" tvg-name="- Archer" tvg-logo="" group-title=" Binge Watch Episodes",- Archer
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/60849.ts
